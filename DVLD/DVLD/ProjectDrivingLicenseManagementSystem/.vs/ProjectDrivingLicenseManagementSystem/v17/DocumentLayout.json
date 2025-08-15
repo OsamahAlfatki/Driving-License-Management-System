@@ -1,0 +1,2187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB54E07-C71D-4B22-9AC7-CEB6F7F25434}|..\\DVLDSettings\\DVLDSettings.csproj|e:\\full real project 19\\dvldsettings\\clssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:login\\frmloginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmadd_updatenewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmadd_updatenewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|e:\\full real project 19\\projectdrivinglicensemanagementsystem\\user\\ctrlusercardinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\ctrlusercardinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\clsdetainedlicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\applicationstypesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\clsinternationallicensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\applicationsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\internationallicense\\frmaddnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\internationallicense\\frmaddnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\globalclasses\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:globalclasses\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\globalclasses\\clsvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:globalclasses\\clsvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\globalclasses\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:globalclasses\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\bin\\Debug\\RegisterUsers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\RegisterUsers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clslicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\frmpersonlicensehistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\frmpersonlicensehistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\internationallicense\\frmlistinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\internationallicense\\frmlistinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\frmpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\frmpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\frmaddupdatelocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\frmaddupdatelocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\frmaddupdatelocaldrivinglicenseapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\frmaddupdatelocaldrivinglicenseapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clsinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clslocaldrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmadd_updatenewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmadd_updatenewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\driversdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clsdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\frmlistlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\frmlistlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\controls\\ctrlfindpersonbyfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\controls\\ctrlfindpersonbyfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\controls\\ctrlpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\controls\\ctrlpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmadd_editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmadd_editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\controls\\ctrlscheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\controls\\ctrlscheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clslicenseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clsdetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clscountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clsapplicationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:drivers\\frmlistdrivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmpeoplemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmpeoplemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmpeoplemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmpeoplemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\managetesttypesscreens\\frmmanagelisttesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\managetesttypesscreens\\frmmanagelisttesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\managetesttypesscreens\\frmmanagelisttesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\managetesttypesscreens\\frmmanagelisttesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\manageapplicationtypesscreens\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\manageapplicationtypesscreens\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\manageapplicationtypesscreens\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\manageapplicationtypesscreens\\frmmanageapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\renewlicense\\frmrenewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\renewlicense\\frmrenewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\replacementforlostordamaged\\frmreplacementforlostordamagedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\replacementforlostordamaged\\frmreplacementforlostordamagedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\replacementforlostordamaged\\frmreplacementforlostordamagedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\replacementforlostordamaged\\frmreplacementforlostordamagedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\renewlicense\\frmrenewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\renewlicense\\frmrenewlocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\releaselicense\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\releaselicense\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\releaselicense\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\releaselicense\\frmreleasedetainedlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\detainlicense\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\detainlicense\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\locallicense\\frmdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\locallicense\\frmdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\locallicense\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\locallicense\\controls\\ctrldriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\detainlicense\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\detainlicense\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\detainlicense\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\detainlicense\\frmlistdetainedlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\frmpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\frmpersonlicensehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\controls\\ctrldriverlicenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\internationallicenses\\ctrlinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\internationallicenses\\ctrlinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\internationallicense\\frmaddnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\internationallicense\\frmaddnewinternationallicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\internationallicenses\\frmdriverinternationalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\internationallicenses\\frmdriverinternationalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\internationallicense\\frmlistinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\internationallicense\\frmlistinternationallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\controls\\ctrlapplicationbasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\controls\\ctrldappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\controls\\ctrldappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\frmaddupdatelocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\frmaddupdatelocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\frmlistlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\frmlistlocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\manageapplicationtypesscreens\\frmupdateapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\manageapplicationtypesscreens\\frmupdateapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\internationallicenses\\ctrlinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\internationallicenses\\ctrlinternationallicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\locallicense\\frmissuedrivinglicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\locallicense\\frmissuedrivinglicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmpersondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmadd_editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmadd_editperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\locallicense\\frmdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\locallicense\\frmdriverlicenseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\locallicense\\frmdriverlicenseinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\locallicense\\frmdriverlicenseinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\localdrivinglicenseapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\frmapplicationinfolocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\frmapplicationinfolocaldrivinglicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\locallicense\\frmissuedrivinglicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\locallicense\\frmissuedrivinglicensefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\countriesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\testsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\controls\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\controls\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\controls\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\controls\\ctrlscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\testappointmentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clstestappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmscheduletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\controls\\ctrlscheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\controls\\ctrlscheduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmtaketest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmtaketest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E604383F-3178-4397-9E2B-85F446E7E784}|..\\BusinessLayer\\BusinessLayer.csproj|e:\\full real project 19\\businesslayer\\clstesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2279C7-802C-445B-99E9-8FBF5C8BCF79}|..\\DataAccessLayer\\DataAccessLayer.csproj|e:\\full real project 19\\dataaccesslayer\\managetesttypesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmlisttestappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmscheduletest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmscheduletest.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmmanageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:frmmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\controls\\ctrlpersoninfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\controls\\ctrlpersoninfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\controls\\ctrlpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\controls\\ctrlpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\detainlicense\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\detainlicense\\frmdetainlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\internationallicenses\\frmdriverinternationalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\internationallicenses\\frmdriverinternationalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\license\\detainlicense\\frmdetainlicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:license\\detainlicense\\frmdetainlicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\replacementforlostordamaged\\frmreplacementforlostordamagedlicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\replacementforlostordamaged\\frmreplacementforlostordamagedlicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\renewlicense\\frmrenewlocaldrivinglicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\renewlicense\\frmrenewlocaldrivinglicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\releaselicense\\frmreleasedetainedlicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\releaselicense\\frmreleasedetainedlicense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\controls\\ctrldappinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\controls\\ctrldappinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\controls\\ctrlapplicationbasicinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\controls\\ctrlapplicationbasicinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\controls\\ctrldappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\controls\\ctrldappinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmadd_editperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmadd_editperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\frmlisttestappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\frmlisttestappointments.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\localdrivinglicenseapplications\\frmlistlocaldrivinglicenseapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\localdrivinglicenseapplications\\frmlistlocaldrivinglicenseapplication.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\managetesttypesscreens\\frmupdatetesttypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\managetesttypesscreens\\frmupdatetesttypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\managetesttypesscreens\\frmupdatetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\managetesttypesscreens\\frmupdatetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\tests\\managetesttypesscreens\\frmupdatetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:tests\\managetesttypesscreens\\frmupdatetesttypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\applications\\manageapplicationtypesscreens\\frmupdateapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:applications\\manageapplicationtypesscreens\\frmupdateapplicationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmmanageusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmmanageusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmchangepassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmchangepassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\ctrlusercardinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\ctrlusercardinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\user\\frmadd_updatenewuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:user\\frmadd_updatenewuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\controls\\ctrlfindpersonbyfilter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\controls\\ctrlfindpersonbyfilter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\frmpersondetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\frmpersondetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\people\\controls\\ctrlfindpersonbyfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC9306FD-B558-44A2-B8F3-99F3F583AA0F}|PresentionLayer.csproj|solutionrelative:people\\controls\\ctrlfindpersonbyfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduleTestOrReschedule.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tests\\Controls\\ctrlScheduleTestOrReschedule.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmIssueDrivingLicenseFirstTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Applications\\LocalDrivingLicenseApplications\\frmIssueDrivingLicenseFirstTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 244,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsUser.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsUser.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsUser.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAawDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:31:44.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLoginScreen.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Login\\frmLoginScreen.cs",
+              "RelativeDocumentMoniker": "Login\\frmLoginScreen.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Login\\frmLoginScreen.cs [Design]",
+              "RelativeToolTip": "Login\\frmLoginScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:41:04.439Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLoginScreen.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Login\\frmLoginScreen.cs",
+              "RelativeDocumentMoniker": "Login\\frmLoginScreen.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Login\\frmLoginScreen.cs",
+              "RelativeToolTip": "Login\\frmLoginScreen.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:19:52.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChangePassword.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "User\\frmChangePassword.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmChangePassword.cs",
+              "RelativeToolTip": "User\\frmChangePassword.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAkwDgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:23:32.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMainForm.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\frmMainForm.cs",
+              "RelativeDocumentMoniker": "frmMainForm.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\frmMainForm.cs",
+              "RelativeToolTip": "frmMainForm.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAQwGkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T23:42:20.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\UsersData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\UsersData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\UsersData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\UsersData.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAAQwDYBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:30:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsSettings.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DVLDSettings\\clsSettings.cs",
+              "RelativeDocumentMoniker": "..\\DVLDSettings\\clsSettings.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DVLDSettings\\clsSettings.cs",
+              "RelativeToolTip": "..\\DVLDSettings\\clsSettings.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwCwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:24:38.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsPerson.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsPerson.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsPerson.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwHQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:18:14.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\PersonData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\PersonData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\PersonData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\PersonData.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAQwNMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:11:01.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAdd_UpdateNewUser.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmAdd_UpdateNewUser.cs",
+              "RelativeDocumentMoniker": "User\\FrmAdd_UpdateNewUser.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmAdd_UpdateNewUser.cs [Design]",
+              "RelativeToolTip": "User\\FrmAdd_UpdateNewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:03:54.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "User\\frmChangePassword.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "User\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T23:44:00.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ctrlUserCardInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\ctrlUserCardInfo.cs",
+              "RelativeDocumentMoniker": "User\\ctrlUserCardInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\ctrlUserCardInfo.cs [Design]",
+              "RelativeToolTip": "User\\ctrlUserCardInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:01:20.138Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\clsDataAccessSettings.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\clsDataAccessSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:41:48.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationsData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\ApplicationsData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\ApplicationsData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\ApplicationsData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\ApplicationsData.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:11:30.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsInternationalLicenseData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\clsInternationalLicenseData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\clsInternationalLicenseData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\clsInternationalLicenseData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\clsInternationalLicenseData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:26:38.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsDetainedLicenseData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\clsDetainedLicenseData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\clsDetainedLicenseData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\clsDetainedLicenseData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\clsDetainedLicenseData.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:28:23.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-09T21:54:18.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationsTypesData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\ApplicationsTypesData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\ApplicationsTypesData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\ApplicationsTypesData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\ApplicationsTypesData.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T21:29:17.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmAddNewInternationalLicense.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\InternationalLicense\\frmAddNewInternationalLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\InternationalLicense\\frmAddNewInternationalLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\InternationalLicense\\frmAddNewInternationalLicense.cs",
+              "RelativeToolTip": "Applications\\InternationalLicense\\frmAddNewInternationalLicense.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAvwGIAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:07:32.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\GlobalClasses\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsGlobal.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\GlobalClasses\\clsGlobal.cs",
+              "RelativeToolTip": "GlobalClasses\\clsGlobal.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:13:20.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsValidate.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\GlobalClasses\\clsValidate.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsValidate.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\GlobalClasses\\clsValidate.cs",
+              "RelativeToolTip": "GlobalClasses\\clsValidate.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:09:05.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsLicense.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsLicense.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsLicense.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsLicense.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAmwJoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:00:05.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\GlobalClasses\\clsUtil.cs",
+              "RelativeDocumentMoniker": "GlobalClasses\\clsUtil.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\GlobalClasses\\clsUtil.cs",
+              "RelativeToolTip": "GlobalClasses\\clsUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:48:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmListInternationalLicenseApplication.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\InternationalLicense\\frmListInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\InternationalLicense\\frmListInternationalLicenseApplication.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\InternationalLicense\\frmListInternationalLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\InternationalLicense\\frmListInternationalLicenseApplication.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAawDkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:00:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmPersonDetails.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPersonDetails.cs",
+              "RelativeDocumentMoniker": "People\\FrmPersonDetails.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPersonDetails.cs",
+              "RelativeToolTip": "People\\FrmPersonDetails.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA4wBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:22:46.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterUsers.txt",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\bin\\Debug\\RegisterUsers.txt",
+              "RelativeDocumentMoniker": "bin\\Debug\\RegisterUsers.txt",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\bin\\Debug\\RegisterUsers.txt",
+              "RelativeToolTip": "bin\\Debug\\RegisterUsers.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-08T21:11:14.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ctrlApplicationBasicInfo.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "RelativeToolTip": "Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAlwE4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:21:43.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmPersonLicenseHistory.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\frmPersonLicenseHistory.Designer.cs",
+              "RelativeDocumentMoniker": "License\\frmPersonLicenseHistory.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\frmPersonLicenseHistory.Designer.cs",
+              "RelativeToolTip": "License\\frmPersonLicenseHistory.Designer.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAawE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:05:04.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmPersonLicenseHistory.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\frmPersonLicenseHistory.cs",
+              "RelativeDocumentMoniker": "License\\frmPersonLicenseHistory.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\frmPersonLicenseHistory.cs",
+              "RelativeToolTip": "License\\frmPersonLicenseHistory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:37:04.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmAddUpdateLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T02:33:07.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmAddUpdateLocalDrivingLicenseApplication.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.Designer.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.Designer.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAawGwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:05:16.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmAdd_UpdateNewUser.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmAdd_UpdateNewUser.cs",
+              "RelativeDocumentMoniker": "User\\FrmAdd_UpdateNewUser.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmAdd_UpdateNewUser.cs",
+              "RelativeToolTip": "User\\FrmAdd_UpdateNewUser.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAmwJQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:37:33.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsApplication.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsApplication.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsApplication.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAUwJwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:29:03.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "clsLocalDrivingLicenseApplications.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsLocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsLocalDrivingLicenseApplications.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsLocalDrivingLicenseApplications.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsLocalDrivingLicenseApplications.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAmwHcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:29:39.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsInternationalLicense.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsInternationalLicense.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsInternationalLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsInternationalLicense.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsInternationalLicense.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAlwE4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:03:16.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmFindPerson.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "People\\frmFindPerson.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\frmFindPerson.cs",
+              "RelativeToolTip": "People\\frmFindPerson.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAawA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:43:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DriversData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\DriversData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\DriversData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\DriversData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\DriversData.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAmwOEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:44:57.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clsDriver.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsDriver.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsDriver.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsDriver.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsDriver.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAEwEwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:41:26.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmListLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAawBwBAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:47:58.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ctrlDriverLicenses.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\Controls\\ctrlDriverLicenses.cs",
+              "RelativeDocumentMoniker": "License\\Controls\\ctrlDriverLicenses.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\Controls\\ctrlDriverLicenses.cs",
+              "RelativeToolTip": "License\\Controls\\ctrlDriverLicenses.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAawGYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:48:48.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ctrlFindPersonByFilter.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlFindPersonByFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlFindPersonByFilter.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlFindPersonByFilter.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlFindPersonByFilter.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAArwIYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:44:54.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ctrlPersonInfo.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlPersonInfo.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlPersonInfo.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonInfo.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwEAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:47:02.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmAdd_EditPerson.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmAdd_EditPerson.cs",
+              "RelativeDocumentMoniker": "People\\FrmAdd_EditPerson.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmAdd_EditPerson.cs",
+              "RelativeToolTip": "People\\FrmAdd_EditPerson.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA0wBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:18:04.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ctrlScheduledTest.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduledTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\ctrlScheduledTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduledTest.cs",
+              "RelativeToolTip": "Tests\\Controls\\ctrlScheduledTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:39:24.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "clsDetainedLicense.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsDetainedLicense.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsDetainedLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsDetainedLicense.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsDetainedLicense.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAmwJYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:48:57.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "clsApplicationType.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsApplicationType.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsApplicationType.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsApplicationType.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsApplicationType.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAEwFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:30:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "clsLicenseClass.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsLicenseClass.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsLicenseClass.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsLicenseClass.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsLicenseClass.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvw0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:13:05.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmListDrivers.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Drivers\\frmListDrivers.cs",
+              "RelativeDocumentMoniker": "Drivers\\frmListDrivers.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Drivers\\frmListDrivers.cs",
+              "RelativeToolTip": "Drivers\\frmListDrivers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwIwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:48:21.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "clsCountry.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsCountry.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsCountry.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsCountry.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsCountry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:12:57.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmListDrivers.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Drivers\\frmListDrivers.cs",
+              "RelativeDocumentMoniker": "Drivers\\frmListDrivers.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Drivers\\frmListDrivers.cs [Design]",
+              "RelativeToolTip": "Drivers\\frmListDrivers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:09:40.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FrmPeopleManagement.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPeopleManagement.cs",
+              "RelativeDocumentMoniker": "People\\FrmPeopleManagement.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPeopleManagement.cs",
+              "RelativeToolTip": "People\\FrmPeopleManagement.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAcwBUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:38:53.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmPeopleManagement.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPeopleManagement.cs",
+              "RelativeDocumentMoniker": "People\\FrmPeopleManagement.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPeopleManagement.cs [Design]",
+              "RelativeToolTip": "People\\FrmPeopleManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:28:14.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmManageListTestTypes.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmManageListTestTypes.cs",
+              "RelativeDocumentMoniker": "Tests\\ManageTestTypesScreens\\FrmManageListTestTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmManageListTestTypes.cs",
+              "RelativeToolTip": "Tests\\ManageTestTypesScreens\\FrmManageListTestTypes.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:34:44.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FrmManageListTestTypes.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmManageListTestTypes.cs",
+              "RelativeDocumentMoniker": "Tests\\ManageTestTypesScreens\\FrmManageListTestTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmManageListTestTypes.cs [Design]",
+              "RelativeToolTip": "Tests\\ManageTestTypesScreens\\FrmManageListTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:34:26.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrmManageApplicationTypes.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ManageApplicationTypesScreens\\FrmManageApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\ManageApplicationTypesScreens\\FrmManageApplicationTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ManageApplicationTypesScreens\\FrmManageApplicationTypes.cs",
+              "RelativeToolTip": "Applications\\ManageApplicationTypesScreens\\FrmManageApplicationTypes.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvyIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:54:37.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FrmManageApplicationTypes.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ManageApplicationTypesScreens\\FrmManageApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\ManageApplicationTypesScreens\\FrmManageApplicationTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ManageApplicationTypesScreens\\FrmManageApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Applications\\ManageApplicationTypesScreens\\FrmManageApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:54:27.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frmRenewLocalDrivingLicense.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\RenewLicense\\frmRenewLocalDrivingLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\RenewLicense\\frmRenewLocalDrivingLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\RenewLicense\\frmRenewLocalDrivingLicense.cs",
+              "RelativeToolTip": "Applications\\RenewLicense\\frmRenewLocalDrivingLicense.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAlwE0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:48:08.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "frmReplacementForLostOrDamagedLicense.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.cs",
+              "RelativeToolTip": "Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAADgv24AAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:48:17.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "frmReplacementForLostOrDamagedLicense.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.cs [Design]",
+              "RelativeToolTip": "Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:45:53.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "frmRenewLocalDrivingLicense.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\RenewLicense\\frmRenewLocalDrivingLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\RenewLicense\\frmRenewLocalDrivingLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\RenewLicense\\frmRenewLocalDrivingLicense.cs [Design]",
+              "RelativeToolTip": "Applications\\RenewLicense\\frmRenewLocalDrivingLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:43:27.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "frmReleaseDetainedLicense.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReleaseLicense\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\ReleaseLicense\\frmReleaseDetainedLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReleaseLicense\\frmReleaseDetainedLicense.cs [Design]",
+              "RelativeToolTip": "Applications\\ReleaseLicense\\frmReleaseDetainedLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:28:04.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "frmReleaseDetainedLicense.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReleaseLicense\\frmReleaseDetainedLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\ReleaseLicense\\frmReleaseDetainedLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReleaseLicense\\frmReleaseDetainedLicense.cs",
+              "RelativeToolTip": "Applications\\ReleaseLicense\\frmReleaseDetainedLicense.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAIA3wGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:06:08.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "frmPersonLicenseHistory.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\frmPersonLicenseHistory.cs",
+              "RelativeDocumentMoniker": "License\\frmPersonLicenseHistory.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\frmPersonLicenseHistory.cs [Design]",
+              "RelativeToolTip": "License\\frmPersonLicenseHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:24:37.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "frmDetainLicense.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "License\\DetainLicense\\frmDetainLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmDetainLicense.cs [Design]",
+              "RelativeToolTip": "License\\DetainLicense\\frmDetainLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:36:07.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "frmDriverLicenseInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "License\\LocalLicense\\frmDriverLicenseInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmDriverLicenseInfo.cs [Design]",
+              "RelativeToolTip": "License\\LocalLicense\\frmDriverLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:35:26.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ctrlDriverLicenseInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\Controls\\ctrlDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "License\\LocalLicense\\Controls\\ctrlDriverLicenseInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\Controls\\ctrlDriverLicenseInfo.cs [Design]",
+              "RelativeToolTip": "License\\LocalLicense\\Controls\\ctrlDriverLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:41:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "frmListDetainedLicenses.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "License\\DetainLicense\\frmListDetainedLicenses.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmListDetainedLicenses.cs [Design]",
+              "RelativeToolTip": "License\\DetainLicense\\frmListDetainedLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:54:13.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "frmListDetainedLicenses.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmListDetainedLicenses.cs",
+              "RelativeDocumentMoniker": "License\\DetainLicense\\frmListDetainedLicenses.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmListDetainedLicenses.cs",
+              "RelativeToolTip": "License\\DetainLicense\\frmListDetainedLicenses.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAwwNAAAACkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:48:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ctrlInternationalLicenseInfo.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\InternationalLicenses\\ctrlInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "License\\InternationalLicenses\\ctrlInternationalLicenseInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\InternationalLicenses\\ctrlInternationalLicenseInfo.cs",
+              "RelativeToolTip": "License\\InternationalLicenses\\ctrlInternationalLicenseInfo.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:39:40.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ctrlDriverLicenses.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\Controls\\ctrlDriverLicenses.cs",
+              "RelativeDocumentMoniker": "License\\Controls\\ctrlDriverLicenses.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\Controls\\ctrlDriverLicenses.cs [Design]",
+              "RelativeToolTip": "License\\Controls\\ctrlDriverLicenses.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:26:24.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "frmAddNewInternationalLicense.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\InternationalLicense\\frmAddNewInternationalLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\InternationalLicense\\frmAddNewInternationalLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\InternationalLicense\\frmAddNewInternationalLicense.cs [Design]",
+              "RelativeToolTip": "Applications\\InternationalLicense\\frmAddNewInternationalLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:17:17.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "frmDriverInternationalInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\InternationalLicenses\\frmDriverInternationalInfo.cs",
+              "RelativeDocumentMoniker": "License\\InternationalLicenses\\frmDriverInternationalInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\InternationalLicenses\\frmDriverInternationalInfo.cs [Design]",
+              "RelativeToolTip": "License\\InternationalLicenses\\frmDriverInternationalInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:17:09.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "frmUserInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "User\\frmUserInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmUserInfo.cs [Design]",
+              "RelativeToolTip": "User\\frmUserInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T23:35:47.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "frmListInternationalLicenseApplication.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\InternationalLicense\\frmListInternationalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\InternationalLicense\\frmListInternationalLicenseApplication.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\InternationalLicense\\frmListInternationalLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Applications\\InternationalLicense\\frmListInternationalLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:48:18.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FrmManageUsers.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmManageUsers.cs",
+              "RelativeDocumentMoniker": "User\\FrmManageUsers.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmManageUsers.cs [Design]",
+              "RelativeToolTip": "User\\FrmManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:28:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ctrlApplicationBasicInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\Controls\\ctrlApplicationBasicInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\Controls\\ctrlApplicationBasicInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\Controls\\ctrlApplicationBasicInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:19:43.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ctrlDAppInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.cs [Design]",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:19:45.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "frmAddUpdateLocalDrivingLicenseApplication.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\frmAddUpdateLocalDrivingLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T02:33:42.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "frmListLocalDrivingLicenseApplication.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.cs [Design]",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:07:13.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FrmUpdateApplicationTypes.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ManageApplicationTypesScreens\\FrmUpdateApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\ManageApplicationTypesScreens\\FrmUpdateApplicationTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ManageApplicationTypesScreens\\FrmUpdateApplicationTypes.cs [Design]",
+              "RelativeToolTip": "Applications\\ManageApplicationTypesScreens\\FrmUpdateApplicationTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:00:35.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ctrlInternationalLicenseInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\InternationalLicenses\\ctrlInternationalLicenseInfo.cs",
+              "RelativeDocumentMoniker": "License\\InternationalLicenses\\ctrlInternationalLicenseInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\InternationalLicenses\\ctrlInternationalLicenseInfo.cs [Design]",
+              "RelativeToolTip": "License\\InternationalLicenses\\ctrlInternationalLicenseInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:49:35.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "frmIssueDrivingLicenseFirstTime.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmIssueDrivingLicenseFirstTime.cs",
+              "RelativeDocumentMoniker": "License\\LocalLicense\\frmIssueDrivingLicenseFirstTime.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmIssueDrivingLicenseFirstTime.cs [Design]",
+              "RelativeToolTip": "License\\LocalLicense\\frmIssueDrivingLicenseFirstTime.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:23:51.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FrmPersonDetails.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPersonDetails.cs",
+              "RelativeDocumentMoniker": "People\\FrmPersonDetails.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPersonDetails.cs [Design]",
+              "RelativeToolTip": "People\\FrmPersonDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:36:28.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "frmFindPerson.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "People\\frmFindPerson.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\frmFindPerson.cs [Design]",
+              "RelativeToolTip": "People\\frmFindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:37:14.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "FrmAdd_EditPerson.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmAdd_EditPerson.cs",
+              "RelativeDocumentMoniker": "People\\FrmAdd_EditPerson.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmAdd_EditPerson.cs [Design]",
+              "RelativeToolTip": "People\\FrmAdd_EditPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:55:57.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "frmDriverLicenseInfo.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmDriverLicenseInfo.cs",
+              "RelativeDocumentMoniker": "License\\LocalLicense\\frmDriverLicenseInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmDriverLicenseInfo.cs",
+              "RelativeToolTip": "License\\LocalLicense\\frmDriverLicenseInfo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:49:03.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "frmDriverLicenseInfo.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmDriverLicenseInfo.Designer.cs",
+              "RelativeDocumentMoniker": "License\\LocalLicense\\frmDriverLicenseInfo.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmDriverLicenseInfo.Designer.cs",
+              "RelativeToolTip": "License\\LocalLicense\\frmDriverLicenseInfo.Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAawB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:40:15.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "LocalDrivingLicenseApplicationData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\LocalDrivingLicenseApplicationData.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAlwEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:07:46.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "frmApplicationInfoLocalDrivingLicense.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmApplicationInfoLocalDrivingLicense.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\frmApplicationInfoLocalDrivingLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmApplicationInfoLocalDrivingLicense.cs [Design]",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\frmApplicationInfoLocalDrivingLicense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:56:11.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CountriesData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\CountriesData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\CountriesData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\CountriesData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\CountriesData.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwE0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T19:19:38.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "frmIssueDrivingLicenseFirstTime.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmIssueDrivingLicenseFirstTime.cs",
+              "RelativeDocumentMoniker": "License\\LocalLicense\\frmIssueDrivingLicenseFirstTime.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\LocalLicense\\frmIssueDrivingLicenseFirstTime.cs",
+              "RelativeToolTip": "License\\LocalLicense\\frmIssueDrivingLicenseFirstTime.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T22:17:25.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "TestsData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\TestsData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\TestsData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\TestsData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\TestsData.cs",
+              "ViewState": "AQIAAHUBAAAAAAAAAAAlwIkBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:04:00.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "clsTest.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsTest.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsTest.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsTest.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwHcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:04:11.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ctrlScheduleTest.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\ctrlScheduleTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduleTest.cs",
+              "RelativeToolTip": "Tests\\Controls\\ctrlScheduleTest.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAnwIYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:24:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "TestAppointmentsData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\TestAppointmentsData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\TestAppointmentsData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\TestAppointmentsData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\TestAppointmentsData.cs",
+              "ViewState": "AQIAALsBAAAAAAAAAAAawMkBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:27:08.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "clsTestAppointment.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsTestAppointment.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsTestAppointment.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsTestAppointment.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsTestAppointment.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAA4wJ0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:26:45.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ctrlScheduleTest.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\ctrlScheduleTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduleTest.cs [Design]",
+              "RelativeToolTip": "Tests\\Controls\\ctrlScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:18:22.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "frmScheduleTest.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmScheduleTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmScheduleTest.cs",
+              "RelativeToolTip": "Tests\\frmScheduleTest.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:07:52.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "frmScheduleTest.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmScheduleTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmScheduleTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmScheduleTest.cs [Design]",
+              "RelativeToolTip": "Tests\\frmScheduleTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:39:01.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "frmTakeTest.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTakeTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmTakeTest.cs",
+              "RelativeToolTip": "Tests\\frmTakeTest.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAnwDQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:10:06.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ctrlScheduledTest.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduledTest.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\ctrlScheduledTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduledTest.cs [Design]",
+              "RelativeToolTip": "Tests\\Controls\\ctrlScheduledTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:04:04.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "frmTakeTest.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTakeTest.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmTakeTest.cs [Design]",
+              "RelativeToolTip": "Tests\\frmTakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:05:38.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "frmListTestAppointments.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmListTestAppointments.cs",
+              "RelativeDocumentMoniker": "Tests\\frmListTestAppointments.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmListTestAppointments.cs",
+              "RelativeToolTip": "Tests\\frmListTestAppointments.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAEwGUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:06:27.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "frmTakeTest.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmTakeTest.Designer.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTakeTest.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmTakeTest.Designer.cs",
+              "RelativeToolTip": "Tests\\frmTakeTest.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:06:13.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "ManageTestTypesData.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\DataAccessLayer\\ManageTestTypesData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\ManageTestTypesData.cs",
+              "ToolTip": "E:\\Full Real Project 19\\DataAccessLayer\\ManageTestTypesData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\ManageTestTypesData.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAlwFoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:26:57.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "clsTestTypes.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\BusinessLayer\\clsTestTypes.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\clsTestTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\BusinessLayer\\clsTestTypes.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\clsTestTypes.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAIAzwDYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:57:37.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "frmScheduleTest.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmScheduleTest.Designer.cs",
+              "RelativeDocumentMoniker": "Tests\\frmScheduleTest.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmScheduleTest.Designer.cs",
+              "RelativeToolTip": "Tests\\frmScheduleTest.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwCAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:01:32.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "frmListTestAppointments.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmListTestAppointments.cs",
+              "RelativeDocumentMoniker": "Tests\\frmListTestAppointments.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmListTestAppointments.cs [Design]",
+              "RelativeToolTip": "Tests\\frmListTestAppointments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:20:42.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "FrmManageUsers.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmManageUsers.cs",
+              "RelativeDocumentMoniker": "User\\FrmManageUsers.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmManageUsers.cs",
+              "RelativeToolTip": "User\\FrmManageUsers.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAuwOsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:27:28.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "frmMainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\frmMainForm.cs",
+              "RelativeDocumentMoniker": "frmMainForm.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\frmMainForm.cs [Design]",
+              "RelativeToolTip": "frmMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:45:17.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ctrlPersonInfo.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlPersonInfo.Designer.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonInfo.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlPersonInfo.Designer.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonInfo.Designer.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwHAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:06:56.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "ctrlPersonInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlPersonInfo.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlPersonInfo.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T22:48:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "frmDetainLicense.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmDetainLicense.cs",
+              "RelativeDocumentMoniker": "License\\DetainLicense\\frmDetainLicense.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmDetainLicense.cs",
+              "RelativeToolTip": "License\\DetainLicense\\frmDetainLicense.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAEwFIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:43:02.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "frmDriverInternationalInfo.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\InternationalLicenses\\frmDriverInternationalInfo.cs",
+              "RelativeDocumentMoniker": "License\\InternationalLicenses\\frmDriverInternationalInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\InternationalLicenses\\frmDriverInternationalInfo.cs",
+              "RelativeToolTip": "License\\InternationalLicenses\\frmDriverInternationalInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:46:56.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "frmDetainLicense.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmDetainLicense.Designer.cs",
+              "RelativeDocumentMoniker": "License\\DetainLicense\\frmDetainLicense.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\License\\DetainLicense\\frmDetainLicense.Designer.cs",
+              "RelativeToolTip": "License\\DetainLicense\\frmDetainLicense.Designer.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAuwN0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:37:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "frmReplacementForLostOrDamagedLicense.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.Designer.cs",
+              "RelativeToolTip": "Applications\\ReplacementForLostOrDamaged\\frmReplacementForLostOrDamagedLicense.Designer.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAuwHgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:40:48.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "frmRenewLocalDrivingLicense.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\RenewLicense\\frmRenewLocalDrivingLicense.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\RenewLicense\\frmRenewLocalDrivingLicense.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\RenewLicense\\frmRenewLocalDrivingLicense.Designer.cs",
+              "RelativeToolTip": "Applications\\RenewLicense\\frmRenewLocalDrivingLicense.Designer.cs",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAuwFcCAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:38:18.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "frmReleaseDetainedLicense.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReleaseLicense\\frmReleaseDetainedLicense.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\ReleaseLicense\\frmReleaseDetainedLicense.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ReleaseLicense\\frmReleaseDetainedLicense.Designer.cs",
+              "RelativeToolTip": "Applications\\ReleaseLicense\\frmReleaseDetainedLicense.Designer.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAowG0BAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:36:19.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ctrlDAppInfo.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.Designer.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.Designer.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAuwL0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:20:36.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "frmIssueDrivingLicenseFirstTime.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmIssueDrivingLicenseFirstTime.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\frmIssueDrivingLicenseFirstTime.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmIssueDrivingLicenseFirstTime.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\frmIssueDrivingLicenseFirstTime.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:23:10.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ctrlApplicationBasicInfo.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\Controls\\ctrlApplicationBasicInfo.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\Controls\\ctrlApplicationBasicInfo.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\Controls\\ctrlApplicationBasicInfo.Designer.cs",
+              "RelativeToolTip": "Applications\\Controls\\ctrlApplicationBasicInfo.Designer.cs",
+              "ViewState": "AQIAAGIBAAAAAAAAAAAawGIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:23:21.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "ctrlDAppInfo.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\Controls\\ctrlDAppInfo.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T22:49:53.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "FrmAdd_EditPerson.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmAdd_EditPerson.Designer.cs",
+              "RelativeDocumentMoniker": "People\\FrmAdd_EditPerson.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmAdd_EditPerson.Designer.cs",
+              "RelativeToolTip": "People\\FrmAdd_EditPerson.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAABRwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:06:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "frmListTestAppointments.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmListTestAppointments.Designer.cs",
+              "RelativeDocumentMoniker": "Tests\\frmListTestAppointments.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\frmListTestAppointments.Designer.cs",
+              "RelativeToolTip": "Tests\\frmListTestAppointments.Designer.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAuwMQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:50:28.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "frmListLocalDrivingLicenseApplication.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.Designer.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.Designer.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingLicenseApplications\\frmListLocalDrivingLicenseApplication.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAABRwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:39:00.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "ctrlScheduleTestOrReschedule.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduleTestOrReschedule.Designer.cs",
+              "RelativeDocumentMoniker": "Tests\\Controls\\ctrlScheduleTestOrReschedule.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\Controls\\ctrlScheduleTestOrReschedule.Designer.cs",
+              "RelativeToolTip": "Tests\\Controls\\ctrlScheduleTestOrReschedule.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:38:31.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "FrmUpdateTestTypes.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.Designer.cs",
+              "RelativeDocumentMoniker": "Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.Designer.cs",
+              "RelativeToolTip": "Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.Designer.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAawJQAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:10:18.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "FrmUpdateTestTypes.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.cs",
+              "RelativeDocumentMoniker": "Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.cs",
+              "RelativeToolTip": "Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAzwG4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:52:33.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "FrmUpdateTestTypes.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.cs",
+              "RelativeDocumentMoniker": "Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.cs [Design]",
+              "RelativeToolTip": "Tests\\ManageTestTypesScreens\\FrmUpdateTestTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:47:31.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "FrmUpdateApplicationTypes.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ManageApplicationTypesScreens\\FrmUpdateApplicationTypes.cs",
+              "RelativeDocumentMoniker": "Applications\\ManageApplicationTypesScreens\\FrmUpdateApplicationTypes.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\Applications\\ManageApplicationTypesScreens\\FrmUpdateApplicationTypes.cs",
+              "RelativeToolTip": "Applications\\ManageApplicationTypesScreens\\FrmUpdateApplicationTypes.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwFQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:00:41.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "FrmManageUsers.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmManageUsers.Designer.cs",
+              "RelativeDocumentMoniker": "User\\FrmManageUsers.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmManageUsers.Designer.cs",
+              "RelativeToolTip": "User\\FrmManageUsers.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwHEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:49:00.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "frmUserInfo.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmUserInfo.cs",
+              "RelativeDocumentMoniker": "User\\frmUserInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmUserInfo.cs",
+              "RelativeToolTip": "User\\frmUserInfo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwCEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:22:07.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "frmChangePassword.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmChangePassword.Designer.cs",
+              "RelativeDocumentMoniker": "User\\frmChangePassword.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\frmChangePassword.Designer.cs",
+              "RelativeToolTip": "User\\frmChangePassword.Designer.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAuwG0AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:31:21.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "ctrlUserCardInfo.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\ctrlUserCardInfo.cs",
+              "RelativeDocumentMoniker": "User\\ctrlUserCardInfo.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\ctrlUserCardInfo.cs",
+              "RelativeToolTip": "User\\ctrlUserCardInfo.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T23:19:33.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "FrmAdd_UpdateNewUser.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmAdd_UpdateNewUser.Designer.cs",
+              "RelativeDocumentMoniker": "User\\FrmAdd_UpdateNewUser.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\User\\FrmAdd_UpdateNewUser.Designer.cs",
+              "RelativeToolTip": "User\\FrmAdd_UpdateNewUser.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAABRwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:40:13.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "ctrlFindPersonByFilter.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlFindPersonByFilter.Designer.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlFindPersonByFilter.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlFindPersonByFilter.Designer.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlFindPersonByFilter.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:21:35.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "FrmPersonDetails.Designer.cs",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPersonDetails.Designer.cs",
+              "RelativeDocumentMoniker": "People\\FrmPersonDetails.Designer.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\FrmPersonDetails.Designer.cs",
+              "RelativeToolTip": "People\\FrmPersonDetails.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwFIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:43:54.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "ctrlFindPersonByFilter.cs [Design]",
+              "DocumentMoniker": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlFindPersonByFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlFindPersonByFilter.cs",
+              "ToolTip": "E:\\Full Real Project 19\\ProjectDrivingLicenseManagementSystem\\People\\Controls\\ctrlFindPersonByFilter.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlFindPersonByFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:21:04.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
