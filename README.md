@@ -53,4 +53,5 @@ It offers essential functionalities including license issuance, renewals, replac
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash  https://github.com/OsamahAlfatki/Driving-License-Management-System.git
+   ```bash
+    https://github.com/OsamahAlfatki/Driving-License-Management-System.git
